@@ -1,4 +1,5 @@
 # Power-Bi-Projects
+<img width="611" alt="summary" src="https://github.com/user-attachments/assets/d4d326a2-5a60-48e9-82b5-5abb964fd753">
 <img width="627" alt="Overview_" src="https://github.com/user-attachments/assets/740abc49-1de2-45eb-9288-5aa040df1e48">
 <img width="633" alt="Demograohics" src="https://github.com/user-attachments/assets/71da7b94-483b-4137-b078-1e1c4367c70a">
 <img width="634" alt="Performance" src="https://github.com/user-attachments/assets/b8b924e7-fb13-4564-948f-5186f6a10353">
